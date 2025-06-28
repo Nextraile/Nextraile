@@ -2,7 +2,7 @@
 <h3 align="center">Hellow there, I'm <strong>Lauhul Ridwan</strong>, a student from <strong>SMKN 8 Semarang</strong> with a growing curiosity in the world of IT. These repositories contains my learning journey — from simple experiments to functional projects. I believe in learning by doing, and this is where I try, fail, and grow. Feel free to explore or leave feedback. Every little insight counts!</h3>
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VecafprgyZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lawhood_pandjatpinang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nextraile@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VecafprgyZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lawhool_pandjatpinang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nextraile@gmail.com) 
 
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
